@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "891984243237",
+    "project_id": "login-pro-e9770",
+    "storage_bucket": "login-pro-e9770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891984243237:android:87720bebad79db3215adcc",
+        "android_client_info": {
+          "package_name": "com.example.login_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891984243237-e4j3s60k2n3coehaar004umf0tk2on2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRs4MmXk_otPy1EkVgmz95LyCCoAqrxQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891984243237-e4j3s60k2n3coehaar004umf0tk2on2e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "891984243237-2p653spg47a50uu7qg43sm03cg1pmnho.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginPro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
